@@ -1,6 +1,6 @@
 {
   "name": "ob-mix",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple function to merge methods and property getters/setters into prototypes.",
   "homepage": "https://github.com/dantman/node-ob-mix",
   "license": "MIT",
