@@ -1,8 +1,8 @@
 {
   "name": "obj-mix",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple function to merge methods and property getters/setters into prototypes.",
-  "homepage": "https://github.com/dantman/node-ob-mix",
+  "homepage": "https://github.com/dantman/node-obj-mix",
   "license": "MIT",
   "author": {
     "name": "Daniel Friesen",
@@ -10,11 +10,11 @@
     "email": "daniel@nadir-seen-fire.com"
   },
   "bugs": {
-    "url": "https://github.com/dantman/node-ob-mix/issues"
+    "url": "https://github.com/dantman/node-obj-mix/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dantman/node-ob-mix.git"
+    "url": "https://github.com/dantman/node-obj-mix.git"
   },
   "main": "index.js",
   "scripts": {
