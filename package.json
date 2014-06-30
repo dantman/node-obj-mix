@@ -1,6 +1,6 @@
 {
   "name": "obj-mix",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple function to merge methods and property getters/setters into prototypes.",
   "homepage": "https://github.com/dantman/node-obj-mix",
   "license": "MIT",
