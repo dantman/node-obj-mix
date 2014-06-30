@@ -1,5 +1,6 @@
 # obj-mix
 
+  [![NPM version](https://badge.fury.io/js/obj-mix.svg)](http://badge.fury.io/js/obj-mix)
   [![Build Status](https://travis-ci.org/dantman/node-obj-mix.svg?branch=develop)](https://travis-ci.org/dantman/node-obj-mix)
 
 **objMix** is a simple utility that lets you merge methods, simple properties, and property descriptors into an object.
