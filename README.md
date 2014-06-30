@@ -1,5 +1,7 @@
 # obj-mix
 
+  [![Build Status](https://travis-ci.org/dantman/node-obj-mix.svg?branch=develop)](https://travis-ci.org/dantman/node-obj-mix)
+
 **objMix** is a simple utility that lets you merge methods, simple properties, and property descriptors into an object.
 
 I've embraced JavaScript's prototypal nature and hate high-level class systems that try to turn JavaScript into something it is not. However I do like to simplify setting methods and properties onto a prototype. Up to now I've simply been using lodash's `_.merge` to do this. However I've recently been using getters in some node based projects. And while I can define these with `Object.defineProperties` it separates the definition of related properties and methods from each other.
